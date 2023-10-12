@@ -1,2 +1,2 @@
 # OpenAI
-# Sandpit for OpenAI testing
+Sandpit for OpenAI testing
